@@ -16,7 +16,7 @@ You can also change the page margin in `cv.typ` to fit in more contents in a sin
 
 Don't forget to include `#chiline()` every time you open a new section, this line acts as a perfect split.
 
-For basic typst syntax, check this template for reference, it's easy to understand and use!
+For basic typst syntax, check this template as a reference, it's super easy to understand and use!
 
 For advanced topics, please refer to [official reference](https://typst.app/docs/reference/) by typst.
 
