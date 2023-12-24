@@ -1,6 +1,6 @@
 # Typst CV Template
 
-A simple CV template for [typst.app](https://typst.app).
+A simple CV template for [typst](https://github.com/typst/typst).
 
 ## How To Use
 
