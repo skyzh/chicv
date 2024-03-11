@@ -19,10 +19,14 @@
 
 #let chiline() = {v(-3pt); line(length: 100%); v(-5pt)}
 
-= Alex Chi
+// picture
+#place(top+right, [#image("./typst.png", height: auto, width: 16%)])
 
-skyzh\@cmu.edu |
-#link("https://github.com/skyzh")[github.com/skyzh] | #link("https://skyzh.dev")[skyzh.dev]
+= Alex Chi
+\
+skyzh\@cmu.edu \
+#link("https://github.com/skyzh")[github.com/skyzh] \
+#link("https://skyzh.dev")[skyzh.dev] \
 
 == Education
 #chiline()
@@ -63,4 +67,3 @@ skyzh\@cmu.edu |
 #lorem(5) #h(1fr) #lorem(2) \
 - #lorem(20)
 - #lorem(30)
-- #lorem(40)
