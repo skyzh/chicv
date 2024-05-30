@@ -6,7 +6,7 @@ A simple CV template for [typst.app](https://typst.app).
 
 ### Quick Start
 
-Create a project on [typst.app](https://typst.app), copy paste everything in https://github.com/skyzh/chicv/blob/master/cv.typ, and all done!
+Create a project on [typst.app](https://typst.app), copy paste everything in https://github.com/skyzh/chicv/blob/master/template/cv.typ. All done!
 
 ### Customize your CV
 
@@ -24,7 +24,7 @@ For advanced topics, please refer to [official reference](https://typst.app/docs
 
 ### Sample CV
 
-![Preview](cv.png)
+![Preview](template/cv.png)
 
 ### Chi's CV
 
