@@ -37,7 +37,7 @@
   h(1fr); text("Last Updated in " + date, fill: color.gray)
 }
 
-// Uncomment the following lines to add the continues prompt on the bottom of the first CV page
+// Uncomment the following lines to add the optional prompt at the bottom of the first CV page
 // #continuescvpage()
 
 = Alex Chi
